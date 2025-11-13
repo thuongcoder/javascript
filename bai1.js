@@ -1,4 +1,7 @@
-alert("Thông báo 1");
-alert("Thông báo 2");
-alert("Thông báo 3");
-console.log("test console");
+// alert("Học khai báo biến");
+// prompt("Nhập tên bạn: ");
+var ten;
+ten = "Thương";
+const nhietdo = 100;
+console.log("Tên của bạn là: " + ten);
+console.log("Nước sôi ở: " + nhietdo + " độ");
