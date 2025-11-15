@@ -1,0 +1,17 @@
+let a = 15;
+let b = 2;
+let tong;
+let hieu;
+let tich;
+let thuong;
+let du;
+tong = a + b;
+hieu = a - b;
+tich = a * b;
+thuong = a / b;
+du = a % b;
+console.log(`Tổng của ${a} và ${b}: ${tong}`);
+console.log(`Hiệu ${a} và ${b}: ${hieu}`);
+console.log(`Tích ${a} và ${b}: ${tich}`);
+console.log(`Thương ${a} và ${b}: ${thuong}`);
+console.log(`Số dư ${a} chia ${b}: ${du}`);
